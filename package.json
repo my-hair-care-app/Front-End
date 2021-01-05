@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@thumbtack/thumbprint-react": "^12.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bushido-strap": "^2.1.8",
     "node-sass": "^4.13.1",
     "react": "^16.12.0",
